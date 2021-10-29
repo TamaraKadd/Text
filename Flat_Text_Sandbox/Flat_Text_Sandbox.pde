@@ -1,11 +1,11 @@
 //Global Variables
-int title, titleX, titleY, titleWidth, titleHeight;
+int  titleX, titleY, titleWidth, titleHeight;
+String title = "dooby shooby bleep blop";
 //Display Geometry
 
 //Fonts from OS
 
 //Populate Variables
-title = ;
 titleX = ;
 titleY = ;
 titleWidth = ;
